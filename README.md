@@ -6,7 +6,7 @@
 
 <div>
 
- <img src=" https://media3.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif?cid=ecf05e470b6d7nfkc8flicvvzol3cqcapce90soczj0unzvs&rid=giphy.gif&ct=g"  width = "50%" height= "270" align = "right"> 
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width = "50%" height= "270" align = "right"> 
  
 
 - 💎  Aspiring `Technical Support Engineer`
