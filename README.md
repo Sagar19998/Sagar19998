@@ -37,7 +37,7 @@
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></code> 
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2572/2572499.png"></code>
-<code><a href="#"><img width="8%" src=" https://cdn-icons-png.flaticon.com/128/4248/4248443.png"></code>
+<code><a href="#"><img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeWONamt9Jk6FPz2GL-xvVRF72uZbkU9O7w&usqp=CAU"></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></code>
 
@@ -45,22 +45,19 @@
 
 ### 🧰 Customer Service Skill's
 
-<code><img width="8%" src=" <a href="https://cdn-icons-png.flaticon.com/128/1086/1086581.png "></code>
- <code><img width="8%" src=" <a href="https://cdn-icons-png.flaticon.com/128/1491/1491165.png "></code>
-<code><img width="8%" src=" <a href="https://cdn-icons-png.flaticon.com/128/9474/9474495.png "></code>
-<code><img width="8%" src=" <a href="https://cdn-icons-png.flaticon.com/512/860/860461.png "></code>
-<code><img width="8%" src=" <a href="https://cdn-icons-png.flaticon.com/512/9540/9540696.png "></code>
-
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/3773/3773170.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/9445/9445655.png"></code>
 </br>
 
 ### 🗄️ Soft Skill's
 
 
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2640/2640598.png  "></code>
-<code><img width="8%" src=" https://cdn-icons-png.flaticon.com/128/1078/1078011.png "></code>
-<code><img width="8%" src=" https://cdn-icons-png.flaticon.com/128/3131/3131333.png "></code>
-<code><img width="8%" src=" https://cdn-icons-png.flaticon.com/128/3286/3286768.png "></code>
-<code><img width="8%" src=" https://cdn-icons-png.flaticon.com/128/1478/1478909.png "></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/608/608968.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4727/4727320.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/7179/7179055.png"></code>
 
 </br>
 
