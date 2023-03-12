@@ -34,30 +34,33 @@
 
  ### 👨‍💻 Technical Skill's
 
-<code><a href="#"><img width="8%" src=" <a href="https://www.flaticon.com/free-icons/os" title="OS icons">OS icons created by Eucalyp - Flaticon</a>"></a></code> 
-<code><a href="#"><img width="8%" src="<a href="https://www.flaticon.com/free-icons/linux" title="linux icons">Linux icons created by Freepik - Flaticon</a> "></a></code>
-<code><a href="#"><img width="8%" src="<a href="https://www.flaticon.com/free-icons/sql" title="sql icons">Sql icons created by Smashicons - Flaticon</a> "></a></code>
-<code><a href="#"><img width="8%" src="<a href="https://www.flaticon.com/free-icons/source-code" title="source code icons">Source code icons created by Pixel perfect - Flaticon</a> "></a></code>
-<code><a href="#"><img width="8%" src="<a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons">Html 5 icons created by Freepik - Flaticon</a> "></a></code>
-<code><a href="#"><img width="8%" src="<a href="https://www.flaticon.com/free-icons/css-3" title="css 3 icons">Css 3 icons created by Freepik - Flaticon</a> "></a></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></code> 
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2572/2572499.png"></code>
+<code><a href="#"><img width="8%" src=" https://cdn-icons-png.flaticon.com/128/4248/4248443.png"></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></code>
+
 </br>
 
 ### 🧰 Customer Service Skill's
 
-<code><img width="8%" src=" <a href="https://www.flaticon.com/free-icons/miscellaneous" title="miscellaneous icons">Miscellaneous icons created by Freepik - Flaticon</a>"></code>
-<code><img width="8%" src="<a href="https://www.flaticon.com/free-icons/skill" title="skill icons">Skill icons created by Freepik - Flaticon</a> "></code>
-<code><img width="8%" src="<a href="https://www.flaticon.com/free-icons/communication" title="communication icons">Communication icons created by Freepik - Flaticon</a> "></code>
-<code><img width="8%" src="<a href="https://www.flaticon.com/free-icons/files-and-folders" title="files and folders icons">Files and folders icons created by Freepik - Flaticon</a> "></code>
+<code><img width="8%" src=" <a href="https://cdn-icons-png.flaticon.com/128/1086/1086581.png "></code>
+ <code><img width="8%" src=" <a href="https://cdn-icons-png.flaticon.com/128/1491/1491165.png "></code>
+<code><img width="8%" src=" <a href="https://cdn-icons-png.flaticon.com/128/9474/9474495.png "></code>
+<code><img width="8%" src=" <a href="https://cdn-icons-png.flaticon.com/512/860/860461.png "></code>
+<code><img width="8%" src=" <a href="https://cdn-icons-png.flaticon.com/512/9540/9540696.png "></code>
+
 </br>
 
 ### 🗄️ Soft Skill's
 
 
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/512/7829/7829198.png "></code>
-<code><img width="8%" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/adaptability-5929096-4952490.png "></code>
-<code><img width="8%" src="<a href="https://www.flaticon.com/free-icons/confirm" title="confirm icons">Confirm icons created by Freepik - Flaticon</a> "></code>
-<code><img width="8%" src="<a href="https://www.flaticon.com/free-icons/development" title="development icons">Development icons created by Freepik - Flaticon</a> "></code>
-
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2640/2640598.png  "></code>
+<code><img width="8%" src=" https://cdn-icons-png.flaticon.com/128/1078/1078011.png "></code>
+<code><img width="8%" src=" https://cdn-icons-png.flaticon.com/128/3131/3131333.png "></code>
+<code><img width="8%" src=" https://cdn-icons-png.flaticon.com/128/3286/3286768.png "></code>
+<code><img width="8%" src=" https://cdn-icons-png.flaticon.com/128/1478/1478909.png "></code>
 
 </br>
 
