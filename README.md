@@ -43,23 +43,6 @@
 
 </br>
 
-### 🧰 Customer Service Skill's
- <code>  <h5 color=red>Critical Thinking</h5></code><
- <code>  <h5 color=red>Troubleshooting</h5></code>
- <code>  <h5 color=red>Customer Success</h5></code>
- <code>   <h5 color=red>Emapathy</h5></code>
-</br>
-
-### 🗄️ Soft Skill's
-
-
- <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/608/608968.png"></code> <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png" Time Management></code>
-
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4727/4727320.png" Leadership ></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/7179/7179055.png" communication></code>
-
-</br>
-
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
 
