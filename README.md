@@ -45,7 +45,7 @@
 
 ### 🧰 Customer Service Skill's
 
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"></code><p>time management</p>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/3773/3773170.png"></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/9445/9445655.png"></code>
