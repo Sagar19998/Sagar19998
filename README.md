@@ -44,11 +44,12 @@
 </br>
 
 ### 🧰 Customer Service Skill's
-
+<div display=flex;>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"><p>time management</p></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"><p>time management</p></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/3773/3773170.png"><p>time management</p></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/9445/9445655.png"><p>time management</p></code>
+ <div>
 </br>
 
 ### 🗄️ Soft Skill's
