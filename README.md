@@ -44,10 +44,10 @@
 </br>
 
 ### 🧰 Customer Service Skill's
-    <h5 color=red>Critical Thinking</h5>
-    <h5 color=red>Troubleshooting</h5>
-    <h5 color=red>Customer Success</h5>
-    <h5 color=red>Emapathy</h5>
+ <code>  <h5 color=red>Critical Thinking</h5></code>
+ <code>  <h5 color=red>Troubleshooting</h5></code>
+ <code>  <h5 color=red>Customer Success</h5></code>
+ <code>   <h5 color=red>Emapathy</h5></code>
 </br>
 
 ### 🗄️ Soft Skill's
