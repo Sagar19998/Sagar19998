@@ -44,19 +44,17 @@
 </br>
 
 ### 🧰 Customer Service Skill's
-<div display=flex;>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4144/4144704.png"><p>time management</p></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"><p>time management</p></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/3773/3773170.png"><p>time management</p></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/9445/9445655.png"><p>time management</p></code>
- <div>
+    <h5 color=red>Critical Thinking</h5>
+    <h5 color=red>Troubleshooting</h5>
+    <h5 color=red>Customer Success</h5>
+    <h5 color=red>Emapathy</h5>
 </br>
 
 ### 🗄️ Soft Skill's
 
 
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/608/608968.png"></code>
-<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"></code>
+ <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/608/608968.png"><p>Communication</p></code>
+<code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4661/4661361.png"><p></p></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/4727/4727320.png"></code>
 <code><img width="8%" src="https://cdn-icons-png.flaticon.com/128/7179/7179055.png"></code>
 
