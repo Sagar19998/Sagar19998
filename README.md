@@ -42,6 +42,9 @@
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></code>
 
 </br>
+ 
+ ### Soft Skill's
+    Communication  Leadership Emapthy  TeamWork
 
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
