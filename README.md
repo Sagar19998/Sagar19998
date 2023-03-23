@@ -44,10 +44,10 @@
 </br>
  
  ### Soft Skill's
- <ul>Communication</ul>
- <ul>Leadership</ul>
- <ul>Emapthy</ul> 
- <ul>TeamWork</ul>
+ <ul>#Communication</ul>
+ <ul>#Leadership</ul>
+ <ul>#Emapthy</ul> 
+ <ul>#TeamWork</ul>
 
 
 <!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
