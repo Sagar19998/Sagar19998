@@ -46,7 +46,7 @@
  ### Soft Skill's
  <ul>#Communication</ul>
  <ul>#Leadership</ul>
- <ul>#Emapthy</ul> 
+ <ul>#Empathy</ul> 
  <ul>#TeamWork</ul>
 
 
