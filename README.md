@@ -43,7 +43,7 @@
 
 </br>
  
- ### Soft Skill's
+### 👨‍💻 Soft Skill's
  <ul>#Communication</ul>
  <ul>#Leadership</ul>
  <ul>#Empathy</ul> 
