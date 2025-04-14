@@ -34,7 +34,7 @@
 
  ### 👨‍💻 Technical Skills
 
-<code><a href="#"><img width="8%" src="Power BI"></code> 
+<code><a href="#"><img width="8%" src="[Power BI](https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png)"></code> 
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2572/2572499.png"></code>
 <code><a href="#"><img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeWONamt9Jk6FPz2GL-xvVRF72uZbkU9O7w&usqp=CAU"></code>
