@@ -20,7 +20,7 @@
 - 📮 Connect With Me On <a href="https://www.linkedin.com/in/sagar-jadhav-b67248210/ ">LinkedIn</a>
 
 
-- 📨 Email ID : **jadhaosagar9798gmail.com**
+- 📨 Email ID : **jadhaosagar59gmail.com**
 
 </div>
 
@@ -32,9 +32,9 @@
 
  ## Skills : 
 
- ### 👨‍💻 Technical Skill's
+ ### 👨‍💻 Technical Skills
 
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2172/2172894.png"></code> 
+<code><a href="#"><img width="8%" src="C:\Users\pcpoint\Downloads"></code> 
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2572/2572499.png"></code>
 <code><a href="#"><img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeWONamt9Jk6FPz2GL-xvVRF72uZbkU9O7w&usqp=CAU"></code>
