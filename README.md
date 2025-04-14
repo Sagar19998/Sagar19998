@@ -11,7 +11,7 @@
 
 - 💎  Data Enthusiast | On a Mission to Uncover Hidden Insights
 
-- 💬 Ask me about ` OS, Linux, SQL, Shell Script, HTML, and CSS.`
+- 💬 Ask me about Python, SQl, Excel, Power BI, Html, Css.`
 
 - 📄 Know about me <a href="https://drive.google.com/file/d/1fL5twdC4PYSQWzi70TMCtdzQ4UsVD4Y_/view?usp=sharing ">Sagar's Resume</a>
 
