@@ -9,9 +9,9 @@
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width = "50%" height= "270" align = "right"> 
  
 
-- 💎  Aspiring `Technical Support Engineer`
+- 💎  Data Enthusiast | On a Mission to Uncover Hidden Insights
 
-- 💬 Ask me about ` OS, Linux, SQL, Shell Script, HTML, CSS.`
+- 💬 Ask me about ` OS, Linux, SQL, Shell Script, HTML, and CSS.`
 
 - 📄 Know about me <a href="https://drive.google.com/file/d/1fL5twdC4PYSQWzi70TMCtdzQ4UsVD4Y_/view?usp=sharing ">Sagar's Resume</a>
 
