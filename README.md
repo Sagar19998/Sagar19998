@@ -30,7 +30,7 @@
  
  <img align="left" width="80" alt="tools" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6tnklrxDRODDzcSzlAR000rBw9NxaZwR8koMpS7J1AI53A5nHPlAhNayryi5428GEpGo&usqp=CAU"/>
 
- ## Skills : 
+## Skills : 
 
  ### 👨‍💻 Technical Skills
 
