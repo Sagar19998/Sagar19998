@@ -36,7 +36,7 @@
 
 <code><a href="#"><img width="8%" src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png"></code> 
 <code><a href="#"><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png"></code>
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2572/2572499.png"></code>
+<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/732/732220.png"></code>
 <code><a href="#"><img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeWONamt9Jk6FPz2GL-xvVRF72uZbkU9O7w&usqp=CAU"></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png"></code>
