@@ -11,7 +11,7 @@
 
 - 💎  Data Enthusiast | On a Mission to Uncover Hidden Insights
 
-- 💬 Ask me about Python, SQL, Excel, Power BI, Visualization, EDA , HTML, CSS.`
+- 💬 Ask me about Python, SQL, Excel, Power BI, Visualization, EDA, HTML, CSS.`
 
 - 📄 Know about me <a href="https://drive.google.com/file/d/1WvoozvpC9CFThy_3S2K45EsxBxdPUttc/view?usp=drive_link">Sagar's Resume</a>
 
@@ -35,7 +35,7 @@
  ### 👨‍💻 Technical Skills
 
 <code><a href="#"><img width="8%" src="https://img.icons8.com/?size=48&id=Ny0t2MYrJ70p&format=png"></code> 
-<code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png"></code>
+<code><a href="#"><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png"></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/2572/2572499.png"></code>
 <code><a href="#"><img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeWONamt9Jk6FPz2GL-xvVRF72uZbkU9O7w&usqp=CAU"></code>
 <code><a href="#"><img width="8%" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png"></code>
