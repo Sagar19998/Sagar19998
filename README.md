@@ -13,7 +13,7 @@
 
 - 💬 Ask me about Python, SQl, Excel, Power BI, Html, Css.`
 
-- 📄 Know about me <a href="[https://drive.google.com/file/d/1fL5twdC4PYSQWzi70TMCtdzQ4UsVD4Y_/view?usp=sharing](https://drive.google.com/file/d/1WvoozvpC9CFThy_3S2K45EsxBxdPUttc/view?usp=sharing)">Sagar's Resume</a>
+- 📄 Know about me <a href="https://drive.google.com/file/d/1WvoozvpC9CFThy_3S2K45EsxBxdPUttc/view?usp=drive_link">Sagar's Resume</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://sagar19998.github.io/">Sagar's Portfolio</a>
 
