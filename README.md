@@ -13,7 +13,7 @@
 
 - 💬 Ask me about Python, SQL, Excel, Power BI, Visualization, EDA.
 
-- 📄 Know about me <a href="https://drive.google.com/file/d/1OFR-K3e8aOvr6_upwk2icnTztCq6qXVA/view?usp=sharing">Sagar's Resume</a>
+- 📄 Know about me <a href="https://drive.google.com/file/d/1eO8-GQLOR5NZbK_HMGFNYtxEr0prTimz/view?usp=sharing">Sagar's Resume</a>
 
 - 📮 Connect With Me On <a href="https://www.linkedin.com/in/sagar-jadhao-411903374/">LinkedIn</a>
 
