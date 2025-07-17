@@ -11,13 +11,11 @@
 
 - 💎  Data Enthusiast | On a Mission to Uncover Hidden Insights
 
-- 💬 Ask me about Python, SQL, Excel, Power BI, Visualization, EDA, HTML, CSS.`
+- 💬 Ask me about Python, SQL, Excel, Power BI, Visualization, EDA.
 
 - 📄 Know about me <a href="https://drive.google.com/file/d/1OFR-K3e8aOvr6_upwk2icnTztCq6qXVA/view?usp=sharing">Sagar's Resume</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://sagar19998.github.io/">Sagar's Portfolio</a>
-
-- 📮 Connect With Me On <a href="https://www.linkedin.com/in/sagar-jadhav-b67248210/ ">LinkedIn</a>
+- 📮 Connect With Me On <a href="https://www.linkedin.com/in/sagar-jadhao-411903374/">LinkedIn</a>
 
 
 - 📨 Email ID : **jadhaosagar59gmail.com**
